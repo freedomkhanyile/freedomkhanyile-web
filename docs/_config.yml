@@ -1,0 +1,1 @@
+include: ['_headers', '_redirects', '*.html', '*.js', '*.css', '*.json']
